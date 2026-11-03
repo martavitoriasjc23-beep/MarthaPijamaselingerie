@@ -36,7 +36,7 @@
         <a class="btn btn-line" href="https://wa.me/5512991597549" target="_blank" rel="noopener">Falar no WhatsApp</a>
       </div>
     </div>
-    <img class="hero-photo" src="p05-0.jpg" alt="Camisola preta com renda, da coleção da Martha" width="825" height="1100" fetchpriority="high">
+    <div class="hero-art"><img class="hero-photo" src="p14-0.jpg" alt="Modelo usando pijama americano listrado rosa" width="825" height="1100" fetchpriority="high"></div>
   </section>
 
   <ul class="perks" aria-label="Como comprar">
@@ -45,7 +45,14 @@
     <li><strong>Pagamento</strong><span>Combinado direto com a loja</span></li>
   </ul>
 
-  <section id="produtos" class="catalog" aria-label="Produtos">
+  <section class="cats" id="categorias" aria-labelledby="cats-title">
+    <h2 class="section-title" id="cats-title">Compre por categoria</h2>
+    <p class="section-sub">Toque em uma categoria para ver as peças.</p>
+    <div id="catGrid" class="cat-grid"></div>
+  </section>
+
+  <section id="produtos" class="catalog" aria-labelledby="catalog-title">
+    <h2 class="section-title" id="catalog-title">Nossas peças</h2>
     <div class="toolbar">
       <input id="search" type="search" placeholder="Buscar produtos" aria-label="Buscar produtos">
       <nav id="categories" aria-label="Categorias"></nav>
