@@ -1,0 +1,23 @@
+MARTHA — SITE COMPLETO
+
+Este pacote contém o código da versão atual da loja e cópias locais das fotos.
+
+COMO USAR NA OUTRA CONTA DO CHATGPT
+1. Anexe este ZIP na outra conversa, se a conta permitir anexos ZIP.
+2. Envie: “Leia o arquivo PROMPT_PARA_OUTRO_CHATGPT.txt dentro do ZIP e siga suas instruções para reproduzir a loja.”
+3. Se ela não conseguir abrir o ZIP, extraia a pasta no computador e anexe o prompt e os quatro arquivos de código. As fotos estão em assets e precisam acompanhar o site na publicação.
+
+Os recursos disponíveis e os limites de anexos da outra conta podem impedir a análise completa. O site já está pronto: não é necessário gerar novamente para publicar.
+
+PUBLICAÇÃO
+Publique index.html, style.css, app.js, products.json e assets juntos na raiz de uma hospedagem estática. Não há dependências nem etapa de compilação. O repositório no GitHub, sozinho, não publica uma loja; precisa conectar uma hospedagem ou configurar um serviço de publicação.
+
+TESTE LOCAL (opcional, para quem tem Python)
+Na pasta extraída: python3 -m http.server 8000
+Depois abra http://localhost:8000
+No Windows o comando pode ser: py -m http.server 8000
+
+PENDÊNCIAS
+Sedex sem integração de cotação; pagamento sem integração; envio ao WhatsApp exige a cliente tocar em enviar. Não há banco de dados, estoque sincronizado ou painel administrativo. Número de pedido é uma referência única gerada no navegador. A publicação atual no ChatGPT é privada; este pacote não leva a restrição de login da hospedagem atual.
+
+Verifique as condições comerciais e custos da hospedagem escolhida antes de publicar a loja.
