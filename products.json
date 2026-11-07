@@ -9,7 +9,8 @@
    "GG"
   ],
   "images": [
-   "p01-0.jpg"
+   "p01-0.jpg",
+   "p01-1.jpg"
   ],
   "description": "Pijama americano feminino, com camisa de botões e short combinando, todo estampado com a fofa vaquinha rosa.\n\nTecido leve e macio, ótimo para os dias mais quentes. Um conjunto fofo para usar em casa com conforto.\n\nDisponível nos tamanhos M, G e GG.",
   "source": "https://marthapijamaselingerie.vendamaisfacil.com.br/produto/Br9stBgTwUlaP9KOqvop",
@@ -142,7 +143,8 @@
   "images": [
    "p08-0.jpg",
    "p08-1.jpg",
-   "p08-2.jpg"
+   "p08-2.jpg",
+   "p08-3.jpg"
   ],
   "description": "Conjunto babydoll com blusa de alcinha e short, em estampa divertida. Tecido leve e macio, bom para os dias quentes ou para dormir com conforto.\n\nCintura com elástico e ajuste por cordão, fica bem no corpo sem apertar. Uma opção fofa e despojada para o dia a dia em casa.",
   "source": "https://marthapijamaselingerie.vendamaisfacil.com.br/produto/u3dY18dPWz1i7ip4qciD",
@@ -331,5 +333,202 @@
   "categories": [
    "Meia estação"
   ]
+ },
+ {
+  "id": 19,
+  "name": "Pijama Inverno Suede Premium Stitch",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n19-0.jpg",
+   "n19-1.jpg"
+  ],
+  "summary": "Pijama de inverno em suede premium, com estampa Stitch.",
+  "description": "Pijama de inverno em suede premium, com estampa Stitch.",
+  "categories": [
+   "Pijamas de inverno"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 20,
+  "name": "Pijama Adulto Inverno Victoria Secret",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n20-0.jpg",
+   "n20-1.jpg",
+   "n20-2.jpg"
+  ],
+  "summary": "Pijama adulto de inverno Victoria Secret. Tecido de algodão com elastano. Calça e camiseta de manga longa.",
+  "description": "Pijama adulto de inverno Victoria Secret. Tecido de algodão com elastano. Calça e camiseta de manga longa.",
+  "categories": [
+   "Pijamas de inverno"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 21,
+  "name": "Babydoll Luxo Bicolor Rosa",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n21-0.jpg",
+   "n21-1.jpg"
+  ],
+  "summary": "Babydoll luxo bicolor, em tons de rosa, com detalhes em renda.",
+  "description": "Babydoll luxo bicolor, em tons de rosa, com detalhes em renda.",
+  "categories": [
+   "Macaquinhos e babydolls",
+   "Lingerie"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 22,
+  "name": "Pijama Americano Suede Premium Capivara",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n22-0.jpg",
+   "n22-1.jpg",
+   "n22-2.jpg"
+  ],
+  "summary": "Pijama americano em suede premium, com estampa exclusiva de capivara.",
+  "description": "Pijama americano em suede premium, com estampa exclusiva de capivara.",
+  "categories": [
+   "Pijamas americanos"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 23,
+  "name": "Camisola Luxo Bicolor Verde Oliva",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n23-0.jpg",
+   "n23-1.jpg"
+  ],
+  "summary": "Camisola luxo bicolor verde oliva, com detalhes em renda.",
+  "description": "Camisola luxo bicolor verde oliva, com detalhes em renda.",
+  "categories": [
+   "Camisolas",
+   "Lingerie"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 24,
+  "name": "Babydoll Cropped Victoria Secret Rosa",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n24-0.jpg",
+   "n24-1.jpg"
+  ],
+  "summary": "Babydoll cropped Victoria Secret em suede premium.",
+  "description": "Babydoll cropped Victoria Secret em suede premium.",
+  "categories": [
+   "Macaquinhos e babydolls"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 25,
+  "name": "Pijama Americano Liso Preto Inverno",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n25-0.jpg",
+   "n25-1.jpg"
+  ],
+  "summary": "Pijama americano liso preto para o inverno, em suede premium.",
+  "description": "Pijama americano liso preto para o inverno, em suede premium.",
+  "categories": [
+   "Pijamas de inverno",
+   "Pijamas americanos"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 26,
+  "name": "Pijama Americano Inverno Vaquinha",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n26-0.jpg",
+   "n26-1.jpg"
+  ],
+  "summary": "Pijama americano de inverno em suede premium, com estampa vaquinha, manga comprida e calça.",
+  "description": "Pijama americano de inverno em suede premium, com estampa vaquinha, manga comprida e calça.",
+  "categories": [
+   "Pijamas de inverno",
+   "Pijamas americanos"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 27,
+  "name": "Babydoll Suede Premium Meninas Superpoderosas",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n27-0.jpg"
+  ],
+  "summary": "Babydoll em suede premium, com estampa das Meninas Superpoderosas.",
+  "description": "Babydoll em suede premium, com estampa das Meninas Superpoderosas.",
+  "categories": [
+   "Macaquinhos e babydolls"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 28,
+  "name": "Babydoll Suede Premium Hello Kitty",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n28-0.jpg"
+  ],
+  "summary": "Babydoll em suede premium, com estampa Hello Kitty.",
+  "description": "Babydoll em suede premium, com estampa Hello Kitty.",
+  "categories": [
+   "Macaquinhos e babydolls"
+  ],
+  "status": "soon"
+ },
+ {
+  "id": 29,
+  "name": "Pijama Americano Suede Premium Hello Kitty",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n29-0.jpg",
+   "n29-1.jpg"
+  ],
+  "summary": "Pijama americano em suede premium, com estampa exclusiva Hello Kitty.",
+  "description": "Pijama americano em suede premium, com estampa exclusiva Hello Kitty.",
+  "categories": [
+   "Pijamas americanos"
+  ],
+  "status": "soldout"
+ },
+ {
+  "id": 30,
+  "name": "Pijama Liz Canelado Luxo Preto",
+  "price": null,
+  "sizes": [],
+  "images": [
+   "n30-0.jpg",
+   "n30-1.jpg",
+   "n30-2.jpg"
+  ],
+  "summary": "Pijama canelado luxo na cor preta, com detalhes em renda rosa.",
+  "description": "Pijama canelado luxo na cor preta, com detalhes em renda rosa.",
+  "categories": [
+   "Pijamas de inverno"
+  ],
+  "status": "soldout"
  }
 ]

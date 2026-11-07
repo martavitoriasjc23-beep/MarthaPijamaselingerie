@@ -239,3 +239,22 @@ textarea{min-height:80px}
 }
 
 @media(max-width:800px){.hero-photo{object-position:center 12%}}
+
+/* Peças indisponíveis / em breve */
+.card .pic{position:relative}
+.tag{position:absolute;top:12px;left:12px;z-index:1;background:rgba(251,248,243,.95);color:var(--brown-dark);font-size:12px;font-weight:600;letter-spacing:.4px;padding:6px 12px;border-radius:999px}
+.unavailable .pic img{opacity:.9}
+.soon-text{font:600 italic 22px/1 var(--serif);color:var(--muted)}
+.status-note{font:600 italic 28px/1 var(--serif);color:var(--muted);margin:0 0 20px}
+.soon-msg{margin:0 0 14px;font-size:15px}
+
+/* Sobre a Martha */
+.about{display:grid;grid-template-columns:.8fr 1.2fr;gap:56px;align-items:center;max-width:1000px;margin:80px auto 0}
+.about-art img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:16px;display:block;background:var(--cream)}
+.about .section-title{text-align:left;margin-bottom:18px}
+.about-text p{margin:0 0 14px;line-height:1.75;color:var(--muted);max-width:34em}
+.about-text .about-lead{font:500 clamp(24px,3vw,32px)/1.25 var(--serif);color:var(--brown-dark)}
+.signature{font:400 40px/1 var(--script);color:var(--brown)!important;margin-top:10px!important}
+@media(max-width:800px){.about{grid-template-columns:1fr;gap:28px;margin-top:56px}.about-art{max-width:320px;margin:0 auto}.about .section-title{text-align:center}}
+
+.choose.wide{width:100%;padding:11px 14px}
